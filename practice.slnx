@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Demo/Demo.csproj" Id="12cf8778-733a-410a-9263-f4d16257a27f" />
+  <Project Path="../Route1/Route1.csproj" Id="55b5eece-0581-4ed0-911c-ce0210e7f7d3" />
+  <Project Path="practice.csproj" />
+</Solution>
